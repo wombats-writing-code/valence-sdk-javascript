@@ -1,5 +1,5 @@
 CHANGES to the original code:
 
-Commit: 4d44aaeebd7bfa27d7f0ce177aa337f94946e684
 cjshawMIT
 Switch signing mechanism to use crypto-js and buffer libraries
+Add index.js to export the valence library
